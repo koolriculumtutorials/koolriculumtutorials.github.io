@@ -3,6 +3,7 @@
   	}
     .wrapper{
       margin: 0 auto;
+      margin-bottom: 5em;
       width: 80%;
       display: block;
       height: 100vh;
@@ -51,6 +52,7 @@
     	margin-bottom: 1em;
     }
 
+
     @media (max-width: 768px) { 
     	.small-header{
     		font-size: 2rem !important;
@@ -69,5 +71,5 @@
      		transform: translateX(-50%);
      	}
 
-     
+
      }
