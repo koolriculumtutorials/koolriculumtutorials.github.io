@@ -49,3 +49,9 @@
     .bottom-margin{
     	margin-bottom: 1em;
     }
+
+    @media (max-width: 768px) { 
+    	.small-header{
+    		font-size: 2rem !important;
+    	}
+     }
