@@ -56,3 +56,18 @@
     		font-size: 2rem !important;
     	}
      }
+
+     @media (max-width: 576px) {
+     	.navigation{
+     		list-style: none;
+     		text-align: center;
+     		padding:unset; 
+     	}
+     	.mobile-center{
+     		position: relative;
+     		left:50%;
+     		transform: translateX(-50%);
+     	}
+
+     
+     }
